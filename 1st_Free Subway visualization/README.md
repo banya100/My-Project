@@ -37,9 +37,7 @@ Source : 시각화
 - Package : pandas, matplotlib, seaborn, folium, plotly
 
 ## 주요 참고자료 (논문)
-- 
 
 ## 연락처
 - HP : 010-8185-0984
 - Email : banya197400201@gmail.com
-
